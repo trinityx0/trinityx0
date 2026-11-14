@@ -2,7 +2,7 @@
 <div align="center">
   <img src="WhatsApp Image 2026-11-14 at 18.32.04.jpeg" width="100%" alt="NEO Matrix Banner">
 </div>
-## Hi there 👋
+## WELCOME TO HELL 😎
 
 <!--
 **trinityx0/trinityx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
